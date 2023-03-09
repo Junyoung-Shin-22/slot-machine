@@ -59,7 +59,7 @@ def main():
         if money == 0: break
     
     clear()
-    print("you are broke.")
+    input("you are broke.")
 
 if __name__ == '__main__':
     main()
